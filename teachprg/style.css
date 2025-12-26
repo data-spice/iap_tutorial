@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+    color:rgb(4, 5, 8);
+    font-family:'Times new roman',Times, serif;
+
+}
+
+.underlined-text {
+    border-bottom: 2px solid pink;
+    background-color:rgb(154, 112, 112)
+}
+
+p{
+    font: size 20px;
+    
+}
+
+#password {
+    border: 2px solid red;
+}
